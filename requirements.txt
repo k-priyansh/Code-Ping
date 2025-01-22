@@ -1,0 +1,4 @@
+scapy
+socket
+netifaces
+requests
